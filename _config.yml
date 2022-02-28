@@ -5,4 +5,5 @@ description: >-
 baseurl: zenggengsen.github.io
 github_username: ZengGengSen
 
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+theme: minima
