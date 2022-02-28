@@ -1,1 +1,8 @@
+title: ZengGengSen Blog
+email: zenggengsen@outlook.com
+description: >- 
+  个人博客
+baseurl: zenggengsen.github.io
+github_username: ZengGengSen
+
 theme: jekyll-theme-hacker
